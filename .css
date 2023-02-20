@@ -1,0 +1,321 @@
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fluid {
+    display:flex;
+}
+.offcanvas-header {
+    width: 50%;
+    display: inline-flex;
+    
+}
+.nav-link {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+}
+.offcanvas-title img  {
+    width:40%;
+
+}
+.bg-image {
+    background-image: url(https://raw.githubusercontent.com/huyhaq/html_css_case_study_lab_1_2/main/image/01.jpg);
+}
+.offcanvas-body ul {
+    list-style-type: none;
+    display:flex;
+    
+}
+.nav-item {
+    margin: 10px;
+    
+}
+
+.a1 {
+    display: flex;
+    width:50%;
+
+}
+.b-one {
+    text-align: left;
+    padding: 20px;
+}
+.b-two {
+    color: #00a79c;
+}
+.fw-bold {
+    color: white;
+    font-size: 49px;
+    text-align: left;
+}
+.mt {
+    color:#00a79c;
+}
+.btn {
+    background-color:#00a79c;
+    border:none;
+    
+    font-size: 20px;
+    border-radius: 20%;
+    padding:10px;
+
+}
+.flex-wrap {
+    display:flex;
+    padding: 20px;
+    margin: 10px;
+    background-color:#f5f5f5;
+}
+.img-fluid {
+    width: 100%;
+    display: inline-flex;
+    
+}
+.b1 , .b2 {
+    display:inline-flex;
+    padding: 20px;
+    width: 100%;
+}
+.b3 {
+    font-size: 40px;
+}
+.m-bg {
+    display:flex;
+    margin: 20px;
+    padding: 20px;
+    
+}
+
+.py-51 {
+    background:
+    linear-gradient(
+        rgba(0, 0, 0, 0.7),
+        rgba(0, 0, 0, 0.7)
+    ),
+     url(https://raw.githubusercontent.com/huyhaq/html_css_case_study_lab_1_2/main/image/menu/10.jpg) ;
+    
+    
+    padding: 10px;
+}
+.card-img-top {
+    width: 100%;
+}
+.m-bg div {
+    width: 100%;
+}
+
+
+.card-body  h4{
+    color:#00a79c;
+    text-align: center;
+}
+.card-body p {
+    color:white;
+}
+.our {
+    text-align:center;
+    color:white;
+}
+.mt-5 {
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 40px;
+    padding: 30px;
+    background-color: #f5f5f5;
+}
+.menu-one img {
+    border-radius: 50%;
+    height: 100px;
+}
+
+.abc {
+    background-color: #f5f5f5;
+}
+.content {
+    width: 250px;
+}
+.menu {
+    text-align: center;
+}
+.h4 {
+    color:black;
+}
+.content p {
+    color:rgba(0, 0, 0, 0.7)
+}
+.menu-one {
+    display:flex;
+  
+    
+}
+.t-color {
+    background:
+    
+    url(https://raw.githubusercontent.com/huyhaq/html_css_case_study_lab_1_2/main/image/09.jpg);
+text-align: center;
+
+}
+.opening {
+    color:aliceblue;
+}
+.cb {
+    padding: 40px;
+}
+.h2 {
+    color:#00a79c;
+    font-size: 30px;
+}
+.lo , .mo , .hi{
+    color:#f5f5f5;
+}
+.re {
+    color:#00a79c ;
+}
+.g-3 {
+    background-color:#f5f5f5;
+}
+.ba {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.gallery {
+    font-size: 40px;
+    text-align: center;
+}
+.col-lg-3 {
+    display:inline-flex;
+    width: 260px;
+    padding: 10px;
+    margin:10px;
+}
+.bn-image {
+    background:
+    linear-gradient(
+        rgba(0, 0, 0, 0.7),
+        rgba(0, 0, 0, 0.7)
+    ),
+    url(https://raw.githubusercontent.com/huyhaq/html_css_case_study_lab_1_2/main/image/blog/01.jpg);
+    text-align: center;
+    color:aliceblue;
+
+}
+.late {
+    color:#00a79c;
+}
+.ccc {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.my-auto , .bn-two {
+    width:300px;
+    padding: 20px;
+    margin: 20px;
+}
+.r-bg {
+    
+    background-color: #f5f5f5;
+}
+.r2 {
+    text-align: center;
+    font-size: 40px;;
+}
+.r {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.r1 {
+    background-color: white;
+    margin: 10px;
+    padding: 30px;
+}
+.am {
+    color:#00a79c;
+    font-size: 20px;
+}
+.r1 img {
+    border-radius: 50%;
+    width: 100px;
+}
+.it {
+    color:black;
+    font-size:15px;
+}
+.nh {
+    color:#00a79c;
+}
+.g-0 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.my-auto , .my-auto1{
+    width: 500px;
+    
+}
+.my-auto {
+    padding:0;
+    margin: 0;
+}
+.my-auto img {
+    border-radius: 5px;
+}
+.my-auto1 {
+    text-align: center;
+}
+.meet {
+    color:rgba(0, 0, 0, 0.7);
+    text-align: center;
+    font-size: 30px;
+
+}
+.m3 {
+    color:#00a79c;
+    font-size: 30px;
+    text-align: center;
+}
+.my-form {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.form-floating {
+    padding: 30px;
+
+}
+.con-bg {
+    background-color:black;
+}
+.contact {
+    font-size: 20px;
+    text-align: center;
+}
+.ft-imgg {
+    background:
+    linear-gradient(
+        rgba(0, 0, 0, 0.7),
+        rgba(0, 0, 0, 0.7)
+    ),
+    url(https://raw.githubusercontent.com/huyhaq/html_css_case_study_lab_1_2/main/image/10.jpg);
+
+}
+.m5 {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 15px;
+    text-align:center;
+}
+.f-one {
+    padding: 30px;
+    margin: 100px;
+}
